@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Philippines"
+        android:showAsAction="withText"
+        android:title="Philippines"
+        android:visible="true"/>
+    <item
+        android:id="@+id/Netherlands"
+        android:showAsAction="ifRoom"
+        android:title="Netherlands "
+        android:visible="true"/>
+    <item
+        android:id="@+id/Russia"
+        android:showAsAction="ifRoom"
+        android:title="Russia"
+        android:visible="true"/>
+    <item
+        android:id="@+id/Ukraine"
+        android:showAsAction="ifRoom"
+        android:title="Ukraine"
+        android:visible="true"/>
+    <item
+        android:id="@+id/Turkey"
+        android:showAsAction="ifRoom"
+        android:title="Turkey"
+        android:visible="true"/>
+</menu>
