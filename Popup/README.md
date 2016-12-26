@@ -14,17 +14,17 @@ COLOR: https://material.io/guidelines/style/color.html#
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Popup/blob/version1/Popup/version1_1.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_2.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Popup/blob/version1/Popup/version1_2.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_3.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Popup/blob/version1/Popup/version1_3.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_4.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Popup/blob/version1/Popup/version1_4.png">
 </p>
